@@ -20,7 +20,7 @@ public class StringArrayUtils {
         return array[1];
     }
 
-    /**
+    /**1
      * @param array array of String objects
      * @return last element in specified array
      */ // TODO
